@@ -1,0 +1,106 @@
+body,html {
+    height:100%;
+    max-height:100%;
+    overflow:hidden
+}
+
+body{
+    font-family:avenir next,avenir,helvetica neue,helvetica,roboto,noto,ubuntu,segoe ui,arial,sans-serif;
+    font-size:20px;
+    line-height:2rem;
+    color:#444;
+    padding-left:1em;
+    padding-right:1em;
+    background-color:#fff;
+    background-position:100%,100%;
+    background-size:contain
+}
+
+body a{
+    font-weight:700;
+    text-decoration:none
+}
+
+body a:active,body a:focus,body a:hover{
+    border-bottom-color:transparent!important
+}
+
+a{
+    color:#444
+}
+
+a:active,a:focus,a:hover{
+    color:rgba(68,68,68,.7)
+}
+
+a.ms{
+    color:#00a1f1
+}
+
+a.ms:active,a.ms:focus,a.ms:hover{
+    color:#7cbb00!important
+}
+
+a.gh{
+    color:#6cc644
+}
+
+a.gh:active,a.gh:focus,a.gh:hover{
+    color:#ff9933!important
+}
+
+a.um{
+    color:#ffcb05
+}
+
+a.um:active,a.um:focus,a.um:hover{
+    color:#00274c!important
+}
+
+a.asic{
+    color:#744da8
+}
+
+a.asic:active,a.asic:focus,a.asic:hover{
+    color:#8d989a!important
+}
+
+a.hl{
+    color:#f65314
+}
+
+a.hl:active,a.hl:focus,a.hl:hover{
+    color:#ffbb00!important
+}
+
+a.resume{
+    color:#00afd8
+}
+
+a.resume:active,a.resume:focus,a.resume:hover{
+    color:#7b858e!important
+}
+
+main{
+    width:100%;
+    background-color:hsla(0,0%,100%,.5);
+    text-align:justify
+}
+
+main h1{
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+    line-height:100%;
+    font-size:1.6em
+}
+
+@media (min-width:1024px){
+    main{
+        width:50%;
+        margin-top:3em
+    }
+    main,main h1{
+        text-align:left
+    }
+}
