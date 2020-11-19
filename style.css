@@ -49,6 +49,14 @@ a.gh:active,a.gh:focus,a.gh:hover{
     color:#ff9933!important
 }
 
+a.wyze{
+    color:#03bba7
+}
+
+a.wyze:active,a.wyze:focus,a.wyze:hover{
+    color: #1B1B1B;
+}
+
 a.um{
     color:#ffcb05
 }
