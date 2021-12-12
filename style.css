@@ -89,6 +89,22 @@ a.resume:active,a.resume:focus,a.resume:hover{
     color:#7b858e!important
 }
 
+a.cloudflare{
+    color:#E35F75
+}
+
+a.cloudflare:active,a.cloudflare:focus,a.cloudflare:hover{
+    color:#1C422B!important
+}
+
+a.warp{
+    color:#48AA74
+}
+
+a.warp:active,a.warp:focus,a.warp:hover{
+    color:#7E9D9F!important
+}
+
 main{
     width:100%;
     background-color:hsla(0,0%,100%,.5);
