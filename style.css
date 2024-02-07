@@ -105,6 +105,30 @@ a.warp:active,a.warp:focus,a.warp:hover{
     color:#7E9D9F!important
 }
 
+a.google{
+    color:#0057e7
+}
+
+a.google:active,a.google:focus,a.google:hover{
+    color:#008744!important
+}
+
+a.pixel{
+    color:#000000
+}
+
+a.pixel:active,a.pixel:focus,a.pixel:hover{
+    color:#4a4a54!important
+}
+
+a.rust{
+    color:#ff6f00
+}
+
+a.rust:active,a.rust:focus,a.rust:hover{
+    color:#ff3700!important
+}
+
 main{
     width:100%;
     background-color:hsla(0,0%,100%,.5);
